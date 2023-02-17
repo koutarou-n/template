@@ -6,7 +6,6 @@ __pycache__/
 
 # Self
 *.mp4
-*.json
 
 # C extensions
 *.so
